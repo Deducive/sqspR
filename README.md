@@ -1,4 +1,4 @@
-# sqspR - Extract download links from exported Squarespace XML
+# sqspR - an R package to extract download links from exported Squarespace XML
 
 The only way to export from Squarespace is a Wordpress format XML file.
 

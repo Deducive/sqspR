@@ -1,0 +1,15 @@
+Package: sqspR
+Title: Extract download links from a Squarespace XML export
+Version: 0.1
+Authors@R: 
+    person(given = "Paul",
+           family = "Newnes",
+           role = c("aut", "cre"),
+           email = "paulasnewnes@gmail.com")
+Description: Extract download links from a Squarespace XML export
+Imports:
+	tidyverse
+License: `use_gpl3_license()`
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

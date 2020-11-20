@@ -1,3 +1,6 @@
+# Meta ignores
+.gitignore
+
 # History files
 .Rhistory
 .Rapp.history
@@ -16,6 +19,7 @@
 
 # Output files from R CMD check
 /*.Rcheck/
+/*.Rproj
 
 # RStudio files
 .Rproj.user/
@@ -37,3 +41,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.Rproj.user

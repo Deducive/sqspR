@@ -1,3 +1,3 @@
-# sqspR - The only way to export from Squarespace is a Wordpress format XML file.
+# sqspR - Extract download links from exported Squarespace XML
 
 Read the wiki on the GitHub repo for details.

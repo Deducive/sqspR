@@ -1,6 +1,6 @@
 Package: sqspR
-Title: Extract download links from a Squarespace XML export
-Version: 0.1
+Title: Extract file and download links from a Squarespace XML export
+Version: 0.11
 Authors@R: 
     person(given = "Paul",
            family = "Newnes",
